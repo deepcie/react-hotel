@@ -8,19 +8,19 @@ export default class Services extends Component {
         icon: <FaCocktail />,
         title: "Free Mocktails",
         info:
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?"
+          "Stir ginger drink, club soda, lime juice, and grenadine in a pitcher. Poured into tall glasses with ice. Garnished with lime rounds and or maraschino cherries."
       },
       {
         icon: <FaHiking />,
         title: "Endless Hiking",
         info:
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?"
+          "Family Friendly: The Endless Wall Trail's mild grades, short length, and exciting views make for a wonderful hike with children."
       },
       {
         icon: <FaShuttleVan />,
         title: "Free Shuttle",
         info:
-          "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias molestias eius libero?"
+          "The shuttle runs Monday through Friday beginning at 7:15 am and provides free service around the City, with trips to local stores, senior centers, libraries, City Hall and parks."
       }
     ]
   };
