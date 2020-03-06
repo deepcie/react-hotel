@@ -20,7 +20,7 @@ export default class Services extends Component {
         icon: <FaShuttleVan />,
         title: "Free Shuttle",
         info:
-          "The shuttle runs Monday through Friday beginning at 7:15 am and provides free service around the City, with trips to local stores, senior centers, libraries, City Hall and parks."
+          "The shuttle runs Monday through Friday beginning at 6:00 am and provides free service around the City, with trips to local stores, senior centers, libraries, City Hall and parks."
       }
     ]
   };
